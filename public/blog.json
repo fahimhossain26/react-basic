@@ -1,0 +1,53 @@
+[
+    {
+      "Id": "001",
+      "cover": "https://i.postimg.cc/L54LX7kn/426724036-699527755688727-3532299435510449595-n.jpg",
+      "title": "The Secret Garden",
+      "author": "Alice Green",
+      "author_img": ".././src/assets/images/boy1.png",
+      "posted_date": "2024-03-12",
+      "reading_time": "30 minutes",
+      "hashtags": ["#fiction", "#adventure", "#mystery"]
+    },
+    {
+      "Id": "002",
+      "cover": "https://i.postimg.cc/hhWnMFCG/383960463-313709554683332-6541293545340056266-n.jpg",
+      "title": "Lost in Wonderland",
+      "author": "Bob Smith",
+      "author_img": ".././src/assets/images/boy2.png",
+      "posted_date": "2024-03-11",
+      "reading_time": "45 minutes",
+      "hashtags": ["#fantasy", "#fiction", "#adventure"]
+    },
+    {
+      "Id": "003",
+      "cover": "https://i.postimg.cc/L54LX7kn/426724036-699527755688727-3532299435510449595-n.jpg",
+      "title": "Echoes of Silence",
+      "author": "Emily Johnson",
+      "author_img": ".././src/assets/images/girl1.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": "25 minutes",
+      "hashtags": ["#mystery", "#thriller", "#suspense"]
+    },
+    {
+      "Id": "004",
+      "cover": "https://i.postimg.cc/hhWnMFCG/383960463-313709554683332-6541293545340056266-n.jpg",
+      "title": "The Midnight Garden",
+      "author": "David Brown",
+      "author_img": ".././src/assets/images/girl2.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": "35 minutes",
+      "hashtags": ["#fantasy", "#romance", "#fiction"]
+    },
+    {
+      "Id": "005",
+      "cover":  "https://i.postimg.cc/hhWnMFCG/383960463-313709554683332-6541293545340056266-n.jpg",
+      "title": "Whispers of the Past",
+      "author": "Sarah White",
+      "author_img": ".././src/assets/images/boy1.png",
+      "posted_date": "2024-03-08",
+      "reading_time": "20 minutes",
+      "hashtags": ["#mystery", "#history", "#suspense"]
+    }
+  ]
+  
